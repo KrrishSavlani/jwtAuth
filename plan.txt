@@ -1,0 +1,9 @@
+in this we are going to build the jwt auth project
+
+what it will do
+
+we are going to do the 2 things
+
+creating the jwt access token and jwt refresh token
+setting the life span of the jwt tokens
+
